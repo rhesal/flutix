@@ -9,7 +9,7 @@ class UserModel extends Equatable {
   final String selectedLanguage;
   final int balance;
 
-  UserModel(this.id, this.email,
+  const UserModel(this.id, this.email,
       {this.name,
       this.profilePicture,
       this.selectedGenres,

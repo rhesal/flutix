@@ -14,6 +14,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "1057114864836-e78tegp6bqm5ogq4b75bqkrhibpoj6a1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutix",
+            "certificate_hash": "5910d78b557959deb590b452a5b4c90a8f1bdbdd"
+          }
+        },
+        {
           "client_id": "1057114864836-jlrfe2rig87s83rsuhko85dg1gh4mfl5.apps.googleusercontent.com",
           "client_type": 3
         }
